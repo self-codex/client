@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://self-codex.github.io/portfoliooo",
+  "homepage": "http://self-codex.github.io/portfolioo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
