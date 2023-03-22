@@ -54,6 +54,7 @@
 .left-side > p {
   font-family: sans-serif;
   margin-bottom: 30px;
+  width: 80%;
   font-size: 18px;
   text-align: center;
 }
@@ -109,10 +110,9 @@
   border-radius: 50%;
 }
 
-a{
+a {
   text-align: center;
 }
-
 
 @media (max-width: 800px) {
   .home {
@@ -133,6 +133,9 @@ a{
   }
   .home .left-side > h2 {
     font-size: 25px;
+  }
+  .left-side > p {
+    width: 100%;
   }
 
   .btn-default {
