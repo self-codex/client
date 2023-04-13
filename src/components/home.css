@@ -50,13 +50,14 @@
   text-transform: capitalize;
   font-size: 30px;
   margin: 35px 0;
+  text-align: center;
 }
 .left-side > p {
   font-family: sans-serif;
   margin-bottom: 30px;
-  width: 80%;
+  width: 90%;
   font-size: 18px;
-  text-align: center;
+  text-align: justify;
 }
 
 .bnt-container {
@@ -114,17 +115,24 @@ a {
   text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
   .home {
     flex-direction: column-reverse;
     height: auto;
     padding: 70px 0 !important;
+  }
+  .left-side {
+    width: 90%;
   }
   .home .right-side {
     margin-bottom: 50px;
   }
 }
 @media (max-width: 450px) {
+  .left-side {
+    width: 90%;
+  }
+
   .home .left-side > h4 {
     font-size: 18px;
   }

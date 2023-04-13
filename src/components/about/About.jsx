@@ -30,8 +30,8 @@ const About = () => {
             </p>
             <p>
               <i className="fas fa-circle"></i>
-              Strong knowledge of JavaScript, React Native, and related
-              technologies
+              Strong knowledge of JavaScript, React Native, Nodejs,
+              Expressjs,MongoDB and related technologies
             </p>
             <p>
               <i className="fas fa-circle"></i>

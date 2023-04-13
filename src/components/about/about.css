@@ -17,22 +17,18 @@ h1 {
   display: flex;
   justify-content: center;
   padding: 0 !important;
-  height: 500px;
   box-shadow: 5px 4px 12px gray;
   margin: 20px 0;
 }
-.about .left-side {
-  width: 50%;
-}
 .about .left-side img {
-  height: 500px !important;
+  width: 520px !important;
 }
 .about .container-lg > .right-side {
   display: flex;
-  justify-content: flex-start !important;
+  justify-content: space-evenly !important;
   align-items: flex-start;
   flex-direction: column;
-  padding: 30px 40px;
+  padding: 10px 35px;
 }
 .about .container-lg .right-side .about-detail {
   font-size: 15px !important;
@@ -42,8 +38,8 @@ h1 {
 }
 .about .container-lg .right-side h5 {
   font-size: 20px !important;
-  padding-top: 30px;
-  padding-bottom: 10px;
+  margin: 15px 0;
+
   color: rgb(63, 58, 58);
 }
 .container-lg .right-side .fa-circle {
@@ -53,22 +49,26 @@ h1 {
 .about .container-lg .right-side p {
   color: rgb(63, 58, 58);
   font-size: 15px !important;
-  line-height: 0.2px;
+  margin: 5px 0 !important;
 }
 
 .about .container-lg .hire-btn {
   background-color: #24263b !important;
+  margin-right: 5px;
 }
 .container-lg .res-btn:hover {
   background-color: #ff5823 !important;
   color: #24263b !important;
 }
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .about .left-side {
     display: none;
   }
   .about {
     padding: 0 30px;
+  }
+  .about .left-side img {
+    width: 430px !important;
   }
 }
 @media (max-width: 450px) {
@@ -77,5 +77,8 @@ h1 {
   }
   .about .container-lg > .right-side {
     padding: 30px 10px;
+  }
+  .about .container-lg .right-side p {
+    line-height: 1;
   }
 }
