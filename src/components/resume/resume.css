@@ -82,7 +82,6 @@
   flex-direction: column;
   justify-content: space-evenly;
   height: 100%;
-  padding: 10px !important;
 }
 .resume .accordion-body .edu {
   display: flex;

@@ -19,9 +19,10 @@ const About = () => {
               company.
             </p>
             <h5>Here are a Few Highlights:</h5>
+
             <p>
               <i className="fas fa-circle"></i>
-              React Native Developer
+              Full Stack React Native Developer
             </p>
             <p>
               <i className="fas fa-circle"></i>
@@ -50,9 +51,9 @@ const About = () => {
                 Hire
               </button>
               <a
-                href="M_Talha_Resume.pdf"
                 className="btn-default res-btn "
-                download="M_Talha_resume.pdf"
+                href="Talha_FullStack_Resume .pdf"
+                download="Talha_FullStack_Resume .pdf"
               >
                 Get Resume
               </a>

@@ -183,7 +183,7 @@ const Resume = () => {
               <div className="skill">
                 <div className="institute">
                   <p className="uni">
-                    <i className="fas fa-circle"></i>REACT
+                    <i className="fas fa-circle"></i>REACT & REACT NATIVE
                   </p>
                   <div className="progress">
                     <div
@@ -202,7 +202,7 @@ const Resume = () => {
               <div className="skill">
                 <div className="institute">
                   <p className="uni">
-                    <i className="fas fa-circle"></i>REACT NATIVE
+                    <i className="fas fa-circle"></i>REDUX
                   </p>
                   <div className="progress">
                     <div
@@ -221,18 +221,18 @@ const Resume = () => {
               <div className="skill">
                 <div className="institute">
                   <p className="uni">
-                    <i className="fas fa-circle"></i>READUX
+                    <i className="fas fa-circle"></i>NODEJS & EXPRESSJS
                   </p>
                   <div className="progress">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      style={{ width: "55%" }}
-                      aria-valuenow="55"
+                      style={{ width: "50%" }}
+                      aria-valuenow="50"
                       aria-valuemin="0"
                       aria-valuemax="100"
                     >
-                      55%
+                      50%
                     </div>
                   </div>
                 </div>
@@ -240,7 +240,7 @@ const Resume = () => {
               <div className="skill">
                 <div className="institute">
                   <p className="uni">
-                    <i className="fas fa-circle"></i>FIREBASE
+                    <i className="fas fa-circle"></i>MONGODB
                   </p>
                   <div className="progress">
                     <div
@@ -260,6 +260,25 @@ const Resume = () => {
                 <div className="institute">
                   <p className="uni">
                     <i className="fas fa-circle"></i>REST API
+                  </p>
+                  <div className="progress">
+                    <div
+                      className="progress-bar"
+                      role="progressbar"
+                      style={{ width: "55%" }}
+                      aria-valuenow="55"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    >
+                      55%
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="skill">
+                <div className="institute">
+                  <p className="uni">
+                    <i className="fas fa-circle"></i>FIREBASE
                   </p>
                   <div className="progress">
                     <div
@@ -389,16 +408,16 @@ const Resume = () => {
                       <i className="fas fa-circle"></i>PNY Trainings, Arfa IT
                       Tower
                     </p>
-                    <p className="deg">React Lab Instructor</p>
+                    <p className="deg">Mern Stack Instructor</p>
                   </div>
                   <div className="year">Present</div>
                 </div>
                 <div className="works">
                   <p className="des">
-                    As a React Lab Instructor, I play a crucial role in helping
-                    students learn and develop their React skills. By providing
+                    As a Mern Stack Instructor, I play a crucial role in helping
+                    students learn and develop their Mern skills. By providing
                     expert instruction and guidance, i can help students become
-                    confident and proficient React developers.
+                    confident and proficient Mern developers.
                   </p>
                 </div>
               </div>
@@ -409,17 +428,16 @@ const Resume = () => {
                     <p className="uni">
                       <i className="fas fa-circle"></i>MCIT Software Lahore, PK
                     </p>
-                    <p className="deg">React Native Intern</p>
+                    <p className="deg">React Native Developer</p>
                   </div>
                   <div className="year">2022</div>
                 </div>
                 <div className="works">
                   <p className="des">
-                    Learning React Native concepts and best practices:i have the
-                    opportunity to learn about React Native concepts such as
-                    components, state management, and data flow. i may also be
-                    exposed to best practices for app development, such as using
-                    Redux for state management or Firebase for data storage.
+                    Developing and maintaining Mobile & Web applications for and
+                    back end using node and integrating with various APIs
+                    technologies Redux for state management or Firebase for data
+                    storage.
                   </p>
                 </div>
               </div>
