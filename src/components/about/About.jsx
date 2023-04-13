@@ -52,8 +52,8 @@ const About = () => {
               </button>
               <a
                 className="btn-default res-btn "
-                href="Talha_FullStack_Resume .pdf"
-                download="Talha_FullStack_Resume .pdf"
+                href="Talha_FullStack_Resume.pdf"
+                download="Talha_FullStack_Resume.pdf"
               >
                 Get Resume
               </a>

@@ -24,8 +24,8 @@ const Home = () => {
           </a>
           <a
             className="btn-default"
-            href="Talha_FullStack_Resume .pdf"
-            download="Talha_FullStack_Resume .pdf"
+            href="Talha_FullStack_Resume.pdf"
+            download="Talha_FullStack_Resume.pdf"
           >
             Get Resume
           </a>
