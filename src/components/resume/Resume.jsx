@@ -405,10 +405,10 @@ const Resume = () => {
                 <div className="edu">
                   <div className="institute">
                     <p className="uni">
-                      <i className="fas fa-circle"></i>PNY Trainings, Arfa IT
-                      Tower
+                      <i className="fas fa-circle"></i>EraFlip Tech, Arfa
+                      Software IT Park
                     </p>
-                    <p className="deg">Mern Stack Instructor</p>
+                    <p className="deg">Mern Stack Developer</p>
                   </div>
                   <div className="year">Present</div>
                 </div>
@@ -426,11 +426,12 @@ const Resume = () => {
                 <div className="edu">
                   <div className="institute">
                     <p className="uni">
-                      <i className="fas fa-circle"></i>MCIT Software Lahore, PK
+                      <i className="fas fa-circle"></i>MCIT Software House
+                      Lahore, PK
                     </p>
                     <p className="deg">React Native Developer</p>
                   </div>
-                  <div className="year">2022</div>
+                  <div className="year">2021-2023</div>
                 </div>
                 <div className="works">
                   <p className="des">
@@ -447,15 +448,15 @@ const Resume = () => {
                     <p className="uni">
                       <i className="fas fa-circle"></i>wGroup Tech
                     </p>
-                    <p className="deg">React Intern</p>
+                    <p className="deg">React Native Internee</p>
                   </div>
-                  <div className="year">2022</div>
+                  <div className="year">2021</div>
                 </div>
                 <div className="works">
                   <p className="des">
-                    As a React intern, you will have the opportunity to gain
-                    practical experience in mobile app development and learn
-                    from experienced developers
+                    As a React Native intern, you will have the opportunity to
+                    gain practical experience in mobile app development and
+                    learn from experienced developers
                   </p>
                 </div>
               </div>
