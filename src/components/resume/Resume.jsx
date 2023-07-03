@@ -359,13 +359,13 @@ const Resume = () => {
                   </p>
                   <p className="des">
                     There are many third-party APIs available that provide video
-                    calling functionality, Agora APIs offer SDKs for React
-                    Native and can be integrated into your app to enable video
+                    calling functionality, zego cloud APIs offer SDKs for React
+                    Native and can be integrated into my app to enable video
                     calling.
                   </p>
                 </div>
                 <a
-                  href="https://github.com/self-codex/videoCallApp"
+                  href="https://github.com/self-codex/zegoVideoCallingApp"
                   className="year"
                   target="_blank"
                 >
@@ -384,7 +384,7 @@ const Resume = () => {
                   </p>
                 </div>
                 <a
-                  href="https://github.com/self-codex/qrcodeScanner"
+                  href="https://github.com/self-codex/QRcodeScanner"
                   className="year"
                   target="_blank"
                 >
@@ -426,8 +426,7 @@ const Resume = () => {
                 <div className="edu">
                   <div className="institute">
                     <p className="uni">
-                      <i className="fas fa-circle"></i>MCIT Software House
-                      Lahore, PK
+                      <i className="fas fa-circle"></i>W Group Tech Lahore, PK
                     </p>
                     <p className="deg">React Native Developer</p>
                   </div>
@@ -446,9 +445,9 @@ const Resume = () => {
                 <div className="edu">
                   <div className="institute">
                     <p className="uni">
-                      <i className="fas fa-circle"></i>wGroup Tech
+                      <i className="fas fa-circle"></i>W Group Tech Lahore, PK
                     </p>
-                    <p className="deg">React Native Internee</p>
+                    <p className="deg">React Native Intern</p>
                   </div>
                   <div className="year">2021</div>
                 </div>

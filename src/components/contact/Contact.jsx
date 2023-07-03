@@ -12,7 +12,7 @@ const Contact = () => {
     company: "",
     message: "",
   });
-
+  // <FontAwesomeIcon icon="fab fa-linkedin-in" />
   const { name, email, subject, company, message } = userForm;
 
   const inputEvent = (e) => {
@@ -60,11 +60,9 @@ const Contact = () => {
             >
               <i className="fab fa-facebook-square"></i>
             </a>
-            <a
-              href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmltWXJSvSLqXBbjfJCgQgjKFLxHxLNmRFXstRJXPtBBdcbLHCPnkBRCmNLnwGGPRPzwxH"
-              target={"_blank"}
-            >
-              <i className="fab fa-twitter-square"></i>
+            <a href="https://www.linkedin.com/in/self-codex/" target={"_blank"}>
+              {/* <i className="fab fa-linkedin-in"></i> */}
+              <i className="fab fa-linkedin"></i>
             </a>
             <a href="https://github.com/self-codex" target={"_blank"}>
               <i className="fab fa-github-square"></i>
